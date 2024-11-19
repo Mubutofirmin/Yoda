@@ -1,0 +1,11 @@
+C:\Users\GLOire a DIeu\Documents\Visual Studio 2017\Projects\TestPatterns\TestPatterns\bin\Debug\TestPatterns.exe.config
+C:\Users\GLOire a DIeu\Documents\Visual Studio 2017\Projects\TestPatterns\TestPatterns\bin\Debug\TestPatterns.exe
+C:\Users\GLOire a DIeu\Documents\Visual Studio 2017\Projects\TestPatterns\TestPatterns\bin\Debug\TestPatterns.pdb
+C:\Users\GLOire a DIeu\Documents\Visual Studio 2017\Projects\TestPatterns\TestPatterns\obj\Debug\TestPatterns.Form1.resources
+C:\Users\GLOire a DIeu\Documents\Visual Studio 2017\Projects\TestPatterns\TestPatterns\obj\Debug\TestPatterns.Formulaires.frmCategorie.resources
+C:\Users\GLOire a DIeu\Documents\Visual Studio 2017\Projects\TestPatterns\TestPatterns\obj\Debug\TestPatterns.Formulaires.frmClient.resources
+C:\Users\GLOire a DIeu\Documents\Visual Studio 2017\Projects\TestPatterns\TestPatterns\obj\Debug\TestPatterns.Properties.Resources.resources
+C:\Users\GLOire a DIeu\Documents\Visual Studio 2017\Projects\TestPatterns\TestPatterns\obj\Debug\TestPatterns.csproj.GenerateResource.Cache
+C:\Users\GLOire a DIeu\Documents\Visual Studio 2017\Projects\TestPatterns\TestPatterns\obj\Debug\TestPatterns.csproj.CoreCompileInputs.cache
+C:\Users\GLOire a DIeu\Documents\Visual Studio 2017\Projects\TestPatterns\TestPatterns\obj\Debug\TestPatterns.exe
+C:\Users\GLOire a DIeu\Documents\Visual Studio 2017\Projects\TestPatterns\TestPatterns\obj\Debug\TestPatterns.pdb
